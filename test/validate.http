@@ -1,7 +1,0 @@
-POST https://developer-challenge-2024-07.cfapps.eu10.hana.ondemand.com/tester/testServer
-Content-Type: application/json
-{
-  "communityid": "ruthiel",
-  "serviceurl": "https://ruthiel-simplest-deployment.cfapps.us10-001.hana.ondemand.com/odata/v4/basic/",
-  "task": "basic-ping"
-}
